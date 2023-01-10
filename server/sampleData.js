@@ -60,7 +60,7 @@ const clients = [
     id: "3",
     name: "Thor Odinson",
     email: "thor@gmail.com",
-    phone: "324-331-4333",
+    phone: "618-663-8563",
   },
   {
     id: "4",
